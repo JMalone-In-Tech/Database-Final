@@ -1,4 +1,4 @@
-# Database-Final
+# CS-472 Database Design-Final
 
 Project Idea:
 
